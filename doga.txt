@@ -1,0 +1,11 @@
+Mi a különbség a teli és az üres elem között?
+Sorolj fel 3 meta elemet! 
+Emmet utasítás átírása: p> 
+
+1. <p> teli elem, mivel van neki nyitó és záró tagje, image az üres, nincsenek nyitó vagy záró tagje
+
+2. <meta charset="UTF-8">
+   <meta name="keywords" content="HTML, CSS, JavaScript">
+   <meta name="description" content="Free Web tutorials">
+
+3. ¯\_(ツ)_/¯ (╬ಠ益ಠ)
